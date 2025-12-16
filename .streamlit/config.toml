@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#FF4B4B" # لون أحمر ناري
+backgroundColor="#0E1117" # خلفية داكنة جداً
+secondaryBackgroundColor="#1F2430" # خلفية ثانوية داكنة
+textColor="#FAFAFA"
+font="sans serif"
